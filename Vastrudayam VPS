@@ -3,3 +3,11 @@
 CREATE DATABASE vastrudayamdb OWNER vastrudayamuser;
 
 postgresql://vastrudayamuser:vastrudayampassword@127.0.0.1:5432/vastrudayamdb
+
+
+
+ sudo nano /etc/nginx/sites-available/vastrudayam.com.conf
+
+sudo  nano /etc/nginx/sites-available/admin.vastrudayam.com.conf
+
+sudo nano /etc/nginx/sites-available/api.vastrudayam.com.conf
