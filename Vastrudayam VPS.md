@@ -11,15 +11,15 @@ postgresql://vastrudayamuser:vastrudayampassword@127.0.0.1:5432/vastrudayamdb
 ```
 
 ```bash
- sudo nano /etc/nginx/sites-available/vastrudayam.com.conf
+ sudo nano /etc/nginx/sites-available/vastrudayam.com
 ```
 
 ```bash
-sudo  nano /etc/nginx/sites-available/admin.vastrudayam.com.conf
+sudo  nano /etc/nginx/sites-available/admin.vastrudayam.com
 ```
 
 ```bash
-sudo nano /etc/nginx/sites-available/api.vastrudayam.com.conf
+sudo nano /etc/nginx/sites-available/api.vastrudayam.com
 ```
 
 ```bash
