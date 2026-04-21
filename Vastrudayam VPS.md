@@ -1,3 +1,9 @@
+ssh root@187.127.153.16
+
+Root Password : Zorvixe@83285
+
+
+
 ```bash
 CREATE USER vastrudayamuser WITH ENCRYPTED PASSWORD 'vastrudayampassword';
 ```
